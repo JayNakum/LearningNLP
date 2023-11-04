@@ -1,0 +1,5 @@
+- document -> title and content dataframe
+- tf idf
+- calculate cosine similarity self and other docs
+- 7 merge summaries
+- normal tf idf
